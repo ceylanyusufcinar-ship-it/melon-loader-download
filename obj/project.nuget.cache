@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q03OvEUMLVU=",
+  "success": true,
+  "projectFilePath": "d:\\github_parsed\\resssss\\melon-loader-download\\files\\MelonLoaderDownloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Merkyriy\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\Merkyriy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\Merkyriy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\Merkyriy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

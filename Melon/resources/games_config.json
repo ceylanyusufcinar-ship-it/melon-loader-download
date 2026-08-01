@@ -1,0 +1,14 @@
+{
+  "games": {
+    "btd6":        { "exe": "BloonsTD6.exe",    "framework": "IL2CPP", "notes": "melonloader btd6 — install Mod Helper after MelonLoader" },
+    "schedule1":   { "exe": "Schedule I.exe",    "framework": "IL2CPP", "notes": "melonloader schedule 1 — mods in AppData/...Schedule 1/Mods/" },
+    "gorillatagg": { "exe": "Gorilla Tag.exe",   "framework": "IL2CPP", "notes": "melonloader gorilla tag — Season 4 confirmed" },
+    "bonelab":     { "exe": "BONELAB.exe",       "framework": "IL2CPP", "notes": "melonloader bonelab download — PCVR and standalone" },
+    "vrchat":      { "exe": "VRChat.exe",         "framework": "IL2CPP", "notes": "melonloader download vr — best for PCVR mods" }
+  },
+  "installer": {
+    "apiUrl":      "https://api.github.com/repos/LavaGang/MelonLoader/releases/latest",
+    "modsSubdir":  "Mods",
+    "autoDetect":  true
+  }
+}
